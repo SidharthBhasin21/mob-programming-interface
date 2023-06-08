@@ -1,0 +1,5 @@
+#! /usr/bin/env bash
+target=/usr/local/bin/
+go build &&
+    cp -f mob "$target" &&
+    echo "installed 'mob' in $target"
