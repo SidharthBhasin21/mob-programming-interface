@@ -2,7 +2,7 @@ package configuration
 
 import (
 	"bufio"
-	"github.com/remotemobprogramming/mob/v4/say"
+	"mpi/say"
 	"os"
 	"os/user"
 	"runtime"

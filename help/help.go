@@ -1,8 +1,9 @@
 package help
 
 import (
-	config "github.com/remotemobprogramming/mob/v4/configuration"
-	"github.com/remotemobprogramming/mob/v4/say"
+	"mpi/say"
+
+	config "mpi/configuration"
 )
 
 func Help(configuration config.Configuration) {

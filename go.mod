@@ -1,3 +1,3 @@
-module github.com/remotemobprogramming/mob/v4
+module mpi
 
 go 1.20

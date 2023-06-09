@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/remotemobprogramming/mob/v4/say"
+	"mpi/say"
 	"os"
 	"path"
 	"regexp"

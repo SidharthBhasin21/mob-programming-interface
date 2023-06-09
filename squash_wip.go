@@ -1,10 +1,10 @@
 package main
 
 import (
-	config "github.com/remotemobprogramming/mob/v4/configuration"
-	"github.com/remotemobprogramming/mob/v4/say"
 	"io"
 	"io/ioutil"
+	config "mpi/configuration"
+	"mpi/say"
 	"os"
 	"path/filepath"
 	"strconv"
